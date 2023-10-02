@@ -1,3 +1,4 @@
-sudo chmod 744 semester
+ sudo chmod 744 semester
  sudo chmod +x
  ./semester
+
